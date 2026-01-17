@@ -25,8 +25,8 @@ This repository provides precompiled binary releases only.
 
 Each release includes:
 - The executable binary
-- A compressed archive of the binary
 - SHA-256 checksums for integrity verification
+- MD5SUM
 
 Source code may be published separately.
 
