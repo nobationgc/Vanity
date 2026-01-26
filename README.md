@@ -39,4 +39,7 @@ Source code may be published separately.
 
 This project is licensed under the MIT License.
 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/a6e26af7-61f1-48bb-8f46-72133aeec646" />
+## Preview
+
+<img width="1226" height="668" alt="image" src="https://github.com/user-attachments/assets/ab1fd212-d3c5-4543-9a71-6ab1f606cf6c" />
+
